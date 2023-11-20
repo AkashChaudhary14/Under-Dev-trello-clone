@@ -1,8 +1,8 @@
 
-##Trello clone application
+## Trello clone application
 
-###Next.js
-###Typescript
-###Tailwind css
-###Prisma
-###CockroachDB
+### Next.js
+### Typescript
+### Tailwind css
+### Prisma
+### CockroachDB
