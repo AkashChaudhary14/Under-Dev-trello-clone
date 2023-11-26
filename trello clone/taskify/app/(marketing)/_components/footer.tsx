@@ -13,6 +13,9 @@ export const Footer = () => {
           <Button size="sm" variant="ghost">
             Terms of Service
           </Button>
+          <Button size="sm" variant="ghost">
+            Contact
+          </Button>
         </div>
       </div>
     </div>
